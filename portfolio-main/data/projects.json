@@ -1,0 +1,64 @@
+[
+	{
+        "title": "DOTclock: IoT Digital Clock",
+        "year": "2025",
+        "fund": "Rp 500,000",
+        "partner": "PMW",
+        "role": "Project Lead",
+        "description": "Developed an IoT-based digital clock with automatic internet time synchronization and an LED dot-matrix display. Responsible for hardware design, embedded programming, and system integration to deliver an accurate and reliable smart clock.",
+        "image": "images/project1.png"
+    },
+        {
+        "title": "IoT Water Quality Monitoring System",
+        "year": "2025",
+        "partner": "Academic Project",
+        "role": "Electrical & Web Developer",
+        "description": "Developed an IoT-based water quality monitoring system capable of measuring pH, turbidity, and temperature in real time. The system integrates multiple sensors with a web dashboard to visualize live data, configure threshold values, and support continuous monitoring for improved water quality management.",
+        "image": "images/project2.png",
+        "link":"https://instrument-project-6bafa.web.app"
+    },
+    {
+        "title": "PID-Based Water Level Control System",
+        "year": "2025",
+        "partner": "Academic Project",
+        "role": "Electrical & Hardware Programmer",
+        "description": "Developed the electrical system and embedded control program for a PID-based water level control system. Responsible for hardware integration, sensor and water pump interfacing, PID controller implementation, and real-time data acquisition to achieve stable and accurate water level regulation.",
+        "image": "images/project3.png"
+    },
+    {
+        "title": "BrightLink: Smart Home System",
+        "year": "2025",
+        "partner": "Personal Project",
+        "role": "Full-Stack IoT Developer",
+        "description": "A personal IoT project for smart lighting control and real-time temperature and humidity monitoring. Developed the electrical system, embedded firmware, and web application to provide remote device control and live environmental data visualization.",
+        "image": "images/project4.png"
+    },
+    {
+        "title": "PLBS FM Profile Website",
+        "year": "2024",
+        "partner": "New PLBS FM",
+        "role": "Web Developer",
+        "description": "A responsive website developed to introduce the student organization (UKM), providing information about its activities, official social media channels, and media partner requirements in a clean and user-friendly interface.",
+        "image": "images/project-web1.png",
+        "link": "https://newplbsfm.github.io/PLBS-FM/"
+    },
+    {
+        "title": "UKM E-Voting System",
+        "year": "2025",
+        "partner": "New PLBS FM",
+        "role": "Web Developer",
+        "description": "A modern web-based e-voting application developed to support transparent and efficient student organization (UKM) chairman elections. The system includes secure user authentication, candidate management, online voting, and real-time vote counting, providing a reliable and user-friendly election experience.",
+        "image": "images/project-web2.png",
+        "link": "https://pemilihan-gm.web.app"
+    },
+    {
+        "title": "Soma Kopi POS & Ordering System",
+        "year": "2025",
+        "fund": "Rp 150,000",
+        "partner": "Soma-Kopi",
+        "role": "Web Developer",
+        "description": "Developed a responsive web-based point-of-sale (POS) and ordering system for a coffee shop. Designed and implemented the user interface, interactive dashboard, digital menu, and ordering workflow to provide an efficient and user-friendly experience for both customers and administrators.",
+        "image": "images/project-web3.png",
+        "link": "https://soma-kopi.web.app"
+    }
+]
