@@ -1,0 +1,35 @@
+{
+    "name": "Muhammad Rafi Athallah - Electronic Engineering",
+    "description": "Electronic Engineering student at Politeknik Negeri Semarang passionate about Embedded Systems, Microcontrollers, Robotics, Internet of Things (IoT), Artificial Intelligence, Computer Vision, and Web Development. Dedicated to developing intelligent hardware and software solutions while continuously expanding technical expertise through research and hands-on projects.",
+    "profileImage": "images/profile.webp",
+    "email": "rafiathallah2020@gmail.com",
+    "phone": "+62 85292402190",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/muhammad-rafi-athallah-927a9a319"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/MuhammadRafiAthallah090405"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/rafiathalla_"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Electronics System Analysis", "icon": "fas fa-microchip", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 80}
+    ]
+}
