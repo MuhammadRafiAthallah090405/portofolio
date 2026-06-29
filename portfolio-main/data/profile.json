@@ -24,12 +24,13 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+		{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Electronics System Analysis", "icon": "fas fa-microchip", "level": 80},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 80}
+		{"name": "Project Management", "icon": "fas fa-list-check", "level": 85},
+		{"name": "Electronics System Analysis", "icon": "fas fa-microchip", "level": 80},
+		{"name": "Foreign Languages", "icon": "fas fa-language", "level": 80},
+		{"name": "Microsoft Office","icon": "fas fa-file-alt","level": 85}
     ]
 }
